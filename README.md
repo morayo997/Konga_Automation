@@ -26,5 +26,6 @@ The automation covers the following:
 
 **Expected Result**
 The system should display the appropriate error message when invalid card details are entered.
+
 **Author**
-MOrayo Francis Ojueregha
+Morayo Francis Ojueregha
