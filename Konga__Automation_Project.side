@@ -69,7 +69,7 @@
         ["xpath=//input[@id='username']", "xpath:attributes"],
         ["xpath=//form/div/input", "xpath:position"]
       ],
-      "value": "guiltlessfrancis@gmail.com"
+      "value": "my email"
     }, {
       "id": "1e78ad57-6af1-41c3-a1e0-aa598c3a27f7",
       "comment": "",
@@ -95,7 +95,7 @@
         ["xpath=//input[@id='password']", "xpath:attributes"],
         ["xpath=//div[2]/div/input", "xpath:position"]
       ],
-      "value": "Honesty@61997"
+      "value": "my password"
     }, {
       "id": "fa645058-ff72-48e2-9dbe-4351282fdbd7",
       "comment": "",
